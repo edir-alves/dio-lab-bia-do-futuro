@@ -1,0 +1,40 @@
+{
+    "perfis": [
+      {
+        "id": "mesada_fixa",
+        "nome": "Mesada Fixa",
+        "faixa_renda": "R$ 100 a R$ 800/mês",
+        "caracteristicas": "Depende dos pais, sem renda própria",
+        "recomendacoes": [
+          "Poupança Jovem",
+          "Cartão Pré-Pago",
+          "Meta de Economia para lazer"
+        ],
+        "dicas": "Separe 10% da mesada para emergências"
+      },
+      {
+        "id": "renda_propria_parcial",
+        "nome": "Renda Própria Parcial",
+        "faixa_renda": "R$ 800 a R$ 2.000/mês",
+        "caracteristicas": "Estágio ou trabalho informal + ajuda dos pais",
+        "recomendacoes": [
+          "Conta Universitária Digital",
+          "CDB Universitário (se maior de 18)",
+          "Meta de Economia para curso ou viagem"
+        ],
+        "dicas": "Use a regra 50/30/20 (gastos/lazer/salvar)"
+      },
+      {
+        "id": "empreendedor_startup",
+        "nome": "Empreendedor/Startup",
+        "faixa_renda": "R$ 2.000 a R$ 5.000/mês",
+        "caracteristicas": "Não depende dos pais, tem negócio próprio",
+        "recomendacoes": [
+          "CDB Universitário",
+          "Separação de contas (pessoal e negócio)",
+          "Reserva de emergência (6 meses de custo)"
+        ],
+        "dicas": "Evite misturar gastos da startup com pessoais"
+      }
+    ]
+  }
