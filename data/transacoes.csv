@@ -1,0 +1,21 @@
+id_cliente,nome,data_transacao,descricao,categoria,valor,tipo,observacao
+CLT001,Ana Clara,2026-03-01,Passagem de ônibus,transporte,8.00,saida,Transporte público
+CLT001,Ana Clara,2026-03-03,Lanche na faculdade,alimentacao,25.00,saida,Fora de casa
+CLT001,Ana Clara,2026-03-05,Mensalidade faculdade,educacao,450.00,saida,Pago com bolsa
+CLT001,Ana Clara,2026-03-08,Cinema com amigos,lazer,40.00,saida,Fim de semana
+CLT001,Ana Clara,2026-03-10,Estágio - Salário,renda,1200.00,entrada,Renda fixa
+CLT001,Ana Clara,2026-03-15,Spotify,assinatura,20.00,saida,Streaming
+CLT001,Ana Clara,2026-03-20,Guardei na poupança,poupanca,150.00,transferencia,Meta cumprida
+CLT002,João Pedro,2026-03-01,Mesada dos pais,renda,500.00,entrada,Mesada fixa
+CLT002,João Pedro,2026-03-03,Compras material faculdade,educacao,80.00,saida,Livros e cadernos
+CLT002,João Pedro,2026-03-07,Ifood,lazer,45.00,saida,Pedido com amigos
+CLT002,João Pedro,2026-03-10,Recarga de celular,servicos,30.00,saida,Internet
+CLT002,João Pedro,2026-03-12,Show com amigos,lazer,120.00,saida,Evento
+CLT002,João Pedro,2026-03-18,Transporte Uber,transporte,25.00,saida,Voltando da faculdade
+CLT003,Marina Silva,2026-03-01,Faturamento startup,renda,3000.00,entrada,Receita do mês
+CLT003,Marina Silva,2026-03-02,Aluguel escritório,negocio,800.00,saida,Custo fixo startup
+CLT003,Marina Silva,2026-03-05,Supermercado,alimentacao,350.00,saida,Compras do mês
+CLT003,Marina Silva,2026-03-10,CDB - Investimento,investimento,500.00,transferencia,Reserva emergência
+CLT003,Marina Silva,2026-03-12,Academia,lazer,120.00,saida,Saúde e bem-estar
+CLT003,Marina Silva,2026-03-18,Netflix e Amazon,assinatura,45.00,saida,Streamings
+CLT003,Marina Silva,2026-03-25,Viagem curta,lazer,400.00,saida,Fim de semana fora
