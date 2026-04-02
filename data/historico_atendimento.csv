@@ -1,7 +1,0 @@
-id_cliente,nome,data_atendimento,pergunta_cliente,resposta_agente,topicos,proximo_passo
-CLT001,Ana Clara,2026-03-20,"Como posso guardar dinheiro todo mês?","Sugeri usar a Meta de Economia e separar 10% da sua renda assim que receber.","poupanca,meta,orcamento","Perguntar na próxima se ela conseguiu guardar"
-CLT001,Ana Clara,2026-03-27,"Consegui guardar R$ 150 esse mês!","Parabenizei e sugeri começar a investir na Poupança Jovem.","investimento,poupanca,progresso","Verificar se ela quer aprender sobre CDB"
-CLT002,João Pedro,2026-03-15,"Posso ter cartão de crédito com 17 anos?","Expliquei que só com 18 anos, mas sugeri o Cartão Pré-Pago.","credito,cartao,regras","Perguntar se ele quer simular um orçamento"
-CLT002,João Pedro,2026-03-22,"Meus pais me deram R$ 500 de mesada. O que faço?","Sugeri dividir em: R$ 350 para gastos, R$ 100 para lazer, R$ 50 para poupar.","orcamento,mesada,planejamento","Acompanhar se ele seguiu a divisão"
-CLT003,Marina Silva,2026-03-10,"Tenho uma startup e ganho R$ 3.000 por mês. Como invisto?","Expliquei que pode investir no CDB Universitário por ter 19 anos.","investimento,cdb,empreendedor","Sugerir reserva de emergência na próxima"
-CLT003,Marina Silva,2026-03-17,"Criei minha reserva de emergência!","Parabenizei e sugeri começar com CDB de liquidez diária.","reserva,investimento,progresso","Perguntar sobre metas de médio prazo"
